@@ -1,22 +1,35 @@
 import * as http from 'http';
 import {IncomingMessage, ServerResponse} from 'http';
+import * as p from 'path';
+import * as fs from 'fs';
 
 const server = http.createServer();
+// dirname 代表当前路径,主要是处理不同系统的'/'和'\'的问题
+const publicDir = p.resolve(__dirname, 'public');
 server.on('request', (request: IncomingMessage, response: ServerResponse) => {
-  console.log(request.method);
-  console.log(request.url);
-  console.log(request.headers);
-  const array = [];
-  // 接收数据，因为数据传输有大小限制，分成多个包上传，因此需要用数组接收
-  request.on('data', (chunk) => {
-    array.push(chunk);
-  });
-  // 数据接收完成，把数据进行拼接
-  request.on('end', () => {
-    const body = Buffer.concat(array).toString();
-    console.log('body');
-    console.log(body);
-    response.end('hi');
-  });
+  const {method, url, headers} = request;
+  switch (url) {
+    case '/index.html':
+      response.setHeader('Content-Type', 'text/html;charset=utf-8');
+      fs.readFile(p.resolve(publicDir, 'index.html'), (error, data) => {
+        if (error) throw error;
+        response.end(data.toString());
+      });
+      break;
+    case '/style.css':
+      response.setHeader('Content-Type', 'text/css;charset=utf-8');
+      fs.readFile(p.resolve(publicDir, 'style.css'), (error, data) => {
+        if (error) throw error;
+        response.end(data.toString());
+      });
+      break;
+    case '/main.js':
+      response.setHeader('Content-Type', 'text/javascript;charset=utf-8');
+      fs.readFile(p.resolve(publicDir, 'main.js'), (error, data) => {
+        if (error) throw error;
+        response.end(data.toString());
+      });
+      break;
+  }
 });
 server.listen(8888);
