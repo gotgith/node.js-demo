@@ -9,7 +9,6 @@ module.exports.add = async (title) => {
   // 3.存储任务到文件
   await db.write(list)
 }
-
 module.exports.clear = async () => {
   await db.write([])
 }
