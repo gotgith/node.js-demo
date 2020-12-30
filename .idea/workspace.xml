@@ -15,24 +15,11 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="">
+    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/app2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app2.ts" afterDir="false" />
@@ -42,8 +29,6 @@
       <change beforePath="$PROJECT_DIR$/express-demo-1/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/views/index.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" afterDir="false" />
     </list>
@@ -60,6 +45,9 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/nextjs-typeorm-1/package.json" />
   </component>
   <component name="ProjectId" id="1l2oUBiAT7ySzvEUKaWpgWvNPjQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,7 +74,7 @@
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node-todo1/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/nextjs-typeorm-1/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -118,7 +106,7 @@
       <workItem from="1608518371058" duration="1764000" />
       <workItem from="1609213130938" duration="634000" />
       <workItem from="1609214406888" duration="109000" />
-      <workItem from="1609290873169" duration="4162000" />
+      <workItem from="1609290873169" duration="5904000" />
     </task>
     <task id="LOCAL-00001" summary="添加任务选择列表，引入inquirer库">
       <created>1606879956271</created>
@@ -265,19 +253,21 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="863" y="307" key="#com.intellij.ide.macro.MacrosDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1607346729845" />
-    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1608282599667">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1609298687283">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1608084570262" />
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609298687283" />
     <state x="-1223" y="123" key="CommitChangelistDialog2/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608090744346" />
     <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.25.1792.1023@0.25.1792.1023" timestamp="1608282599667" />
     <state width="628" height="646" key="DebuggerActiveHint" timestamp="1607346108782">
       <screen x="0" y="25" width="1792" height="1024" />
     </state>
     <state width="628" height="646" key="DebuggerActiveHint/0.25.1792.1024@0.25.1792.1024" timestamp="1607346108782" />
-    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1609297137509">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state x="100" y="82" width="1592" height="920" key="DiffContextDialog" timestamp="1609298526391">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="100" y="82" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609298526391" />
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.25.1792.1023/-1920.113.1920.1055@0.25.1792.1023" timestamp="1609297137509" />
     <state width="1771" height="386" key="GridCell.Tab.0.bottom" timestamp="1607428790158">
       <screen x="0" y="0" width="1792" height="1120" />
