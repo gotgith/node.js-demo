@@ -1,0 +1,13 @@
+{
+  "name": "node-server-fanyi",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/main.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.11",
+    "commander": "^6.2.0"
+  }
+}

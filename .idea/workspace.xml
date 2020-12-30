@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/node-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/big_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/demo.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/actions.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/aliasing.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/assertions.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/connectors.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/cookies.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/cypress_api.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/files.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/local_storage.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/location.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/misc.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/navigation.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/network_requests.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/querying.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/spies_stubs_clocks.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/traversal.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/utilities.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/viewport.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/waiting.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/window.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/support/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/pages/api/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/styles/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-mysql-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-mysql-test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-server-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-server-demo/public/img/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-server-demo/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-server-fanyi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-server-fanyi/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/app2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app2.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-demo-2/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-2/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nextjs-typeorm-1" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1l2oUBiAT7ySzvEUKaWpgWvNPjQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.9" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/express-demo-1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node-todo1/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/express-demo-1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node-server-fanyi/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="" />
+      <created>1606804559693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606804559693</updated>
+      <workItem from="1606804560733" duration="26000" />
+      <workItem from="1606804990834" duration="2495000" />
+      <workItem from="1606807982850" duration="16378000" />
+      <workItem from="1606899949452" duration="7874000" />
+      <workItem from="1607345245588" duration="1199000" />
+      <workItem from="1607484971170" duration="18710000" />
+      <workItem from="1607754053105" duration="806000" />
+      <workItem from="1607925939938" duration="2721000" />
+      <workItem from="1608084279376" duration="11040000" />
+      <workItem from="1608516645304" duration="923000" />
+      <workItem from="1608518371058" duration="1764000" />
+      <workItem from="1609213130938" duration="634000" />
+      <workItem from="1609214406888" duration="109000" />
+      <workItem from="1609290873169" duration="2731000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加任务选择列表，引入inquirer库">
+      <created>1606879956271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606879956271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建node-server-demo文件夹">
+      <created>1607493535653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607493535653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试server的监听和数据接收">
+      <created>1607499104564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607499104564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="根据路径返回不同的文件">
+      <created>1607500946068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607500946068</updated>
+    </task>
+    <task id="LOCAL-00005" summary="处理查询参数的问题">
+      <created>1607501906686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607501906686</updated>
+    </task>
+    <task id="LOCAL-00006" summary="处理method">
+      <created>1607562937470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607562937470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="翻译失败">
+      <created>1607589438898</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607589438898</updated>
+    </task>
+    <task id="LOCAL-00008" summary="node连接mysql">
+      <created>1607740837556</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607740837556</updated>
+    </task>
+    <task id="LOCAL-00009" summary="stream">
+      <created>1607946106255</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607946106255</updated>
+    </task>
+    <task id="LOCAL-00010" summary="创建和初始化express-demo-1">
+      <created>1608084570371</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608084570371</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hello-world">
+      <created>1608087151918</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608087151918</updated>
+    </task>
+    <task id="LOCAL-00012" summary="express初始化项目配置">
+      <created>1608090744466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608090744466</updated>
+    </task>
+    <task id="LOCAL-00013" summary="express test">
+      <created>1608282599783</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608282599783</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="添加任务选择列表，引入inquirer库" />
+    <MESSAGE value="创建node-server-demo文件夹" />
+    <MESSAGE value="测试server的监听和数据接收" />
+    <MESSAGE value="根据路径返回不同的文件" />
+    <MESSAGE value="处理查询参数的问题" />
+    <MESSAGE value="处理method" />
+    <MESSAGE value="翻译失败" />
+    <MESSAGE value="node连接mysql" />
+    <MESSAGE value="stream" />
+    <MESSAGE value="创建和初始化express-demo-1" />
+    <MESSAGE value="hello-world" />
+    <MESSAGE value="express初始化项目配置" />
+    <MESSAGE value="express test" />
+    <option name="LAST_COMMIT_MESSAGE" value="express test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="197" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608518478914">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="540" y="197" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608518478914" />
+    <state x="-1341" y="299" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1606880062035" />
+    <state x="863" y="307" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1607346729845">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="863" y="307" key="#com.intellij.ide.macro.MacrosDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1607346729845" />
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1608282599667">
+      <screen x="0" y="25" width="1792" height="1023" />
+    </state>
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1608084570262" />
+    <state x="-1223" y="123" key="CommitChangelistDialog2/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608090744346" />
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.25.1792.1023@0.25.1792.1023" timestamp="1608282599667" />
+    <state width="628" height="646" key="DebuggerActiveHint" timestamp="1607346108782">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="628" height="646" key="DebuggerActiveHint/0.25.1792.1024@0.25.1792.1024" timestamp="1607346108782" />
+    <state width="1771" height="386" key="GridCell.Tab.0.bottom" timestamp="1607428790158">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790158" />
+    <state width="1465" height="252" key="GridCell.Tab.0.bottom/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1606988543258" />
+    <state width="1771" height="386" key="GridCell.Tab.0.center" timestamp="1607428790157">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790157" />
+    <state width="1465" height="252" key="GridCell.Tab.0.center/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1606988543257" />
+    <state width="1771" height="386" key="GridCell.Tab.0.left" timestamp="1607428790157">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790157" />
+    <state width="1465" height="252" key="GridCell.Tab.0.left/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1606988543257" />
+    <state width="1771" height="386" key="GridCell.Tab.0.right" timestamp="1607428790157">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790157" />
+    <state width="1465" height="252" key="GridCell.Tab.0.right/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1606988543258" />
+    <state width="1771" height="386" key="GridCell.Tab.1.bottom" timestamp="1607428790159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790159" />
+    <state width="1771" height="386" key="GridCell.Tab.1.center" timestamp="1607428790159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790159" />
+    <state width="1771" height="386" key="GridCell.Tab.1.left" timestamp="1607428790158">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790158" />
+    <state width="1771" height="386" key="GridCell.Tab.1.right" timestamp="1607428790159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790159" />
+    <state width="1771" height="386" key="GridCell.Tab.2.bottom" timestamp="1607428790161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790161" />
+    <state width="1771" height="386" key="GridCell.Tab.2.center" timestamp="1607428790160">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790160" />
+    <state width="1771" height="386" key="GridCell.Tab.2.left" timestamp="1607428790160">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790160" />
+    <state width="1771" height="386" key="GridCell.Tab.2.right" timestamp="1607428790160">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790160" />
+    <state width="1771" height="386" key="GridCell.Tab.3.bottom" timestamp="1607428790162">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.3.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790162" />
+    <state width="1771" height="386" key="GridCell.Tab.3.center" timestamp="1607428790161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.3.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790161" />
+    <state width="1771" height="386" key="GridCell.Tab.3.left" timestamp="1607428790161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.3.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790161" />
+    <state width="1771" height="386" key="GridCell.Tab.3.right" timestamp="1607428790162">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.3.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607428790162" />
+    <state x="582" y="173" key="SettingsEditor" timestamp="1608530324465">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="582" y="173" key="SettingsEditor/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1608530324465" />
+    <state x="582" y="173" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1608518507064" />
+    <state x="-1296" y="276" key="SettingsEditor/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608110343804" />
+    <state x="667" y="277" key="Vcs.Push.Dialog.v2" timestamp="1608282603521">
+      <screen x="0" y="25" width="1792" height="1023" />
+    </state>
+    <state x="667" y="276" key="Vcs.Push.Dialog.v2/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1608084573974" />
+    <state x="-1205" y="373" key="Vcs.Push.Dialog.v2/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608090751004" />
+    <state x="667" y="277" key="Vcs.Push.Dialog.v2/0.25.1792.1023@0.25.1792.1023" timestamp="1608282603521" />
+    <state x="-1319" y="333" width="718" height="918" key="search.everywhere.popup" timestamp="1607754233958">
+      <screen x="-1920" y="113" width="1920" height="1055" />
+    </state>
+    <state x="561" y="234" width="670" height="974" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1607485213371" />
+    <state x="-1319" y="333" width="718" height="918" key="search.everywhere.popup/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1607754233958" />
+    <state x="561" y="239" width="670" height="889" key="search.everywhere.popup/0.25.1792.1023@0.25.1792.1023" timestamp="1607485170989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node-todo1/index.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="this" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

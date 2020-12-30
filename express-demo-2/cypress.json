@@ -1,0 +1,6 @@
+{
+  "ignoreTestFiles": [
+    "*.hot-update.js",
+    "**/examples/*.*"
+  ]
+}
