@@ -19,20 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/nextjs-typeorm-1/.babelrc" afterDir="false" />
+    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="成功连接数据库">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/app2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app2.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/bin/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +96,7 @@
       <workItem from="1608518371058" duration="1764000" />
       <workItem from="1609213130938" duration="634000" />
       <workItem from="1609214406888" duration="109000" />
-      <workItem from="1609290873169" duration="8916000" />
+      <workItem from="1609290873169" duration="9574000" />
     </task>
     <task id="LOCAL-00001" summary="添加任务选择列表，引入inquirer库">
       <created>1606879956271</created>
@@ -201,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608282599783</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="成功连接数据库">
+      <created>1609317166081</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609317166081</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +238,8 @@
     <MESSAGE value="hello-world" />
     <MESSAGE value="express初始化项目配置" />
     <MESSAGE value="express test" />
-    <option name="LAST_COMMIT_MESSAGE" value="express test" />
+    <MESSAGE value="成功连接数据库" />
+    <option name="LAST_COMMIT_MESSAGE" value="成功连接数据库" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="197" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608518478914">
@@ -255,11 +251,11 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="863" y="307" key="#com.intellij.ide.macro.MacrosDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1607346729845" />
-    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1609298687283">
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1609317165798">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1608084570262" />
-    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609298687283" />
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609317165798" />
     <state x="-1223" y="123" key="CommitChangelistDialog2/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608090744346" />
     <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.25.1792.1023@0.25.1792.1023" timestamp="1608282599667" />
     <state width="628" height="646" key="DebuggerActiveHint" timestamp="1607346108782">
