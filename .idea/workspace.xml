@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/nextjs-typeorm-1/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/app2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app2.ts" afterDir="false" />
@@ -29,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/express-demo-1/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/views/index.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" afterDir="false" />
     </list>
@@ -106,7 +108,7 @@
       <workItem from="1608518371058" duration="1764000" />
       <workItem from="1609213130938" duration="634000" />
       <workItem from="1609214406888" duration="109000" />
-      <workItem from="1609290873169" duration="5904000" />
+      <workItem from="1609290873169" duration="8916000" />
     </task>
     <task id="LOCAL-00001" summary="添加任务选择列表，引入inquirer库">
       <created>1606879956271</created>
