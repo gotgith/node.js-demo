@@ -1,58 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/big_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/fixtures/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/demo.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/actions.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/aliasing.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/assertions.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/connectors.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/cookies.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/cypress_api.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/files.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/local_storage.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/location.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/misc.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/navigation.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/network_requests.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/querying.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/spies_stubs_clocks.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/traversal.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/utilities.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/viewport.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/waiting.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/integration/examples/window.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/plugins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/support/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-demo-2/cypress/support/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/pages/api/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/styles/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/styles/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-blog-1/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-mysql-test/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-mysql-test/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-demo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-demo/public/img/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-demo/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-fanyi/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-server-fanyi/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/app2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/app2.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/bin/www" afterDir="false" />
@@ -60,9 +41,11 @@
       <change beforePath="$PROJECT_DIR$/express-demo-1/routes/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/views/index.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/express-demo-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-1/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-demo-2/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/express-demo-2/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +118,7 @@
       <workItem from="1608518371058" duration="1764000" />
       <workItem from="1609213130938" duration="634000" />
       <workItem from="1609214406888" duration="109000" />
-      <workItem from="1609290873169" duration="2731000" />
+      <workItem from="1609290873169" duration="4162000" />
     </task>
     <task id="LOCAL-00001" summary="添加任务选择列表，引入inquirer库">
       <created>1606879956271</created>
@@ -234,6 +217,27 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加任务选择列表，引入inquirer库" />
@@ -271,6 +275,10 @@
       <screen x="0" y="25" width="1792" height="1024" />
     </state>
     <state width="628" height="646" key="DebuggerActiveHint/0.25.1792.1024@0.25.1792.1024" timestamp="1607346108782" />
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1609297137509">
+      <screen x="0" y="25" width="1792" height="1023" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.25.1792.1023/-1920.113.1920.1055@0.25.1792.1023" timestamp="1609297137509" />
     <state width="1771" height="386" key="GridCell.Tab.0.bottom" timestamp="1607428790158">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
