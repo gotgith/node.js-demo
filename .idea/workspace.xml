@@ -19,13 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="创建三个表以及统一命名风格">
+    <list default="true" id="79176ba2-9884-4569-ba6e-1db42603f1f8" name="Default Changelist" comment="创建三个实体及其关联">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/global/pg_control" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_stat_tmp/db_0.stat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_stat_tmp/global.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/blog-data/pg_xact/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-typeorm-1/src/seed.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-typeorm-1/src/seed.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +106,7 @@
       <workItem from="1609290873169" duration="15459000" />
       <workItem from="1609730894354" duration="1607000" />
       <workItem from="1609758866057" duration="7819000" />
-      <workItem from="1610335481871" duration="2762000" />
+      <workItem from="1610335481871" duration="3574000" />
     </task>
     <task id="LOCAL-00001" summary="添加任务选择列表，引入inquirer库">
       <created>1606879956271</created>
@@ -232,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610346364043</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="创建三个实体及其关联">
+      <created>1610348175307</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610348175307</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +289,8 @@
     <MESSAGE value="add migration posts" />
     <MESSAGE value="创建users Table" />
     <MESSAGE value="创建三个表以及统一命名风格" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建三个表以及统一命名风格" />
+    <MESSAGE value="创建三个实体及其关联" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建三个实体及其关联" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="197" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608518478914">
@@ -296,10 +306,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1610095131173" />
-    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1610346363310">
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2" timestamp="1610348175128">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1610346363310" />
+    <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120/-1920.88.1920.1080@0.0.1792.1120" timestamp="1610348175128" />
     <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609404216209" />
     <state x="-1223" y="123" key="CommitChangelistDialog2/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608090744346" />
     <state x="651" y="25" width="831" height="1023" key="CommitChangelistDialog2/0.25.1792.1023@0.25.1792.1023" timestamp="1608282599667" />
@@ -394,11 +404,16 @@
     <state x="-1205" y="373" key="Vcs.Push.Dialog.v2/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1608090751004" />
     <state x="667" y="277" key="Vcs.Push.Dialog.v2/0.25.1792.1023@0.25.1792.1023" timestamp="1608282603521" />
     <state x="667" y="277" key="Vcs.Push.Dialog.v2/0.25.1792.1024/-1920.113.1920.1055@0.25.1792.1024" timestamp="1609991074308" />
-    <state x="-1319" y="333" width="718" height="918" key="search.everywhere.popup" timestamp="1607754233958">
-      <screen x="-1920" y="113" width="1920" height="1055" />
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610348558768">
+      <screen x="0" y="25" width="1792" height="1023" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1792.1023/-1920.113.1920.1055@0.25.1792.1023" timestamp="1610348558768" />
+    <state x="561" y="223" width="671" height="1170" key="search.everywhere.popup" timestamp="1610348606329">
+      <screen x="0" y="25" width="1792" height="1023" />
     </state>
     <state x="561" y="234" width="670" height="974" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1607485213371" />
     <state x="-1319" y="333" width="718" height="918" key="search.everywhere.popup/0.25.1792.1023/-1920.113.1920.1055@-1920.113.1920.1055" timestamp="1607754233958" />
+    <state x="561" y="223" width="671" height="1170" key="search.everywhere.popup/0.25.1792.1023/-1920.113.1920.1055@0.25.1792.1023" timestamp="1610348606328" />
     <state x="561" y="239" width="670" height="889" key="search.everywhere.popup/0.25.1792.1023@0.25.1792.1023" timestamp="1607485170989" />
   </component>
   <component name="XDebuggerManager">
